@@ -1,13 +1,13 @@
 ## Site metadata ##
 
-title: Jekyll Actions Guide
-description: How to setup GH Pages + GH Actions for use with Jekyll 4
+title: AthleteFirst.Tokyo
+description: Athlete First.
 
 ### Built settings ###
 
 url: "https://athletefirst.github.io"
 baseurl: "/tokyo"
 
-github_username: MichaelCurrin
+github_username: AthleteFirst
 
 theme: minima
