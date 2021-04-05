@@ -5,8 +5,8 @@ description: How to setup GH Pages + GH Actions for use with Jekyll 4
 
 ### Built settings ###
 
-url: "https://michaelcurrin.github.io"
-baseurl: "/jekyll-actions-quickstart"
+url: "https://athletefirst.github.io"
+baseurl: "/tokyo"
 
 github_username: MichaelCurrin
 
